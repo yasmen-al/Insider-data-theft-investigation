@@ -17,5 +17,5 @@ Turn Caleb Bridgers laptop virtual machine into a single verified disk image, th
 
 ## Problems, Decisions and Limitations
 - I originally planned to do a separate master copy. However, I decided to use the clone which hasn't been run as the master to make things simpler.
-- I miss typed ~case instead of ~/case when typing in the 'mkdir -p' command. This created a folder named '~case' instead of 'case'. A copy of the laptob disk was saved to this folder at 19:27 on 13/10/2026. I checked the hash of the file in terminal to make sure it matches the clone. Once i confirmed it matches i renamed it and moved it to '~/case/evidence-working'.
+- I miss typed ~case instead of ~/case when typing in the 'mkdir -p' command. This created a folder named '~case' instead of 'case'. A copy of the laptob disk was saved to this folder at 19:27 on 13/10/2026. I checked the hash of the file in terminal to make sure it matches the clone. Once i confirmed it matches i renamed it and moved it to ~/case/evidence-working.
 - The 'laptop' VM went through a snapshot which wouldn't happen in a real forensics acquisition as they would using a physical or software write blocker which is a limitation.
