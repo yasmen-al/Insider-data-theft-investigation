@@ -1,6 +1,7 @@
 # Contemporaneous Notes
 
-## Day 1 - 10/10/2026
+## 01 - VM Setup
+### 10/10/2026
 17:30 - I Opened VirtualBox which was already installed on my device.
 
 17:31 - I Clicked on new in VirtualBox and entered the name of the VM to be ‘laptop’.
@@ -41,7 +42,8 @@
 
 
 
-## Day 2 - 11/10/2026
+## 02 - Incident Creation
+### 11/10/2026
 14:34 - I started up 'laptop'.
 
 - I went to the file explorer and opened the sales folder, then opened ‘customer,csv’ and ‘pricing,csv’. I then closed the files.
@@ -64,7 +66,8 @@
 
 
 
-## day 3 - 13/10/2026
+## 03 - Evidence Handling
+### 13/10/2026
 17:04 - I clicked on the ‘laptop’ VM settings and changed it from basic to expert and saved the changes. 
 
 17:05 - I right clicked the ‘laptop’ vm and cloned it.
@@ -78,7 +81,7 @@
 19:27 - created a master copy of the laptop clone. I then hashed it to make sure it matched the clone file which it did. However, when making the file i named it incorrectly it was supposed to be ‘case’ but it made ‘~case’.
 
 
+### 14/10/2026
+20:50 - i moved and renamed the the file using terminal on Mac.
 
-## day 4 - 14/10/2026
-20:50 - i moved and renamed the the file using terminal on Mac. 
 20:53 - Stayed in terminal and gave the file a unique ID and hashed it. The 'evidence-working.vhd' and the 'laptop clone' now have 2 different hashes. ce738168f4bde150b8cfaa5083c93b3d455137a08f4c70393403c36ae676d23d
