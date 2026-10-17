@@ -82,6 +82,51 @@
 
 
 ### 14/10/2026
-20:50 - i moved and renamed the the file using terminal on Mac.
+20:50 - I moved and renamed the the file using terminal on Mac.
 
 20:53 - Stayed in terminal and gave the file a unique ID and hashed it. The 'evidence-working.vhd' and the 'laptop clone' now have 2 different hashes. ce738168f4bde150b8cfaa5083c93b3d455137a08f4c70393403c36ae676d23d
+
+
+## 04 - Analysis
+### 16/10/2026
+00:13 - exported contemporaneous notes into a pdf.
+
+00:20 - hashed the contemporaneous notes file in terminal using ‘shashum -a 256 and the file path. hash: 3c626edeb7e9e632dc6151575c3587caccb2241658db7d05f37bb1e8bdcf2ca1.
+
+17:31 - I opened vitualbox and pressed on new and created a new VM called ‘analysis’. I allocated it the ISO file and gave it 4096 MB in RAM, 2 CPUs and 50GB disk and unticked unattended install.
+
+17:33 - I started the ‘analysis’ VM.
+
+17:34 - I set the language, time and keyboard to english (united kingdom and clicked install and pressed i don't have a product key.
+
+17:35 - I selected Windows 10 Pro.
+
+17:36 - Selected install windows only and pressed next. 
+
+18:55 - selected the region to united kingdom.
+
+18:59 - I set the account name to be ‘examiner’.
+
+19:03 - I shut down the VM.
+
+21:34 - booted up the ‘analysis’ VM.
+
+21:46 - I opened Microsoft edge.
+
+21:47 - Searched autopsy.com in the search bar and clicked download.
+
+21:57 - Searched ericzimmerman.github.io in the search bar and download tools.
+
+22:46 - I downloaded .NET9.0 by clicking on the link from the ericzimmerman.github.io website.
+
+22:53 - I extracted the ericzimmerman tools.
+
+23:11 - I shutdown the VM.
+
+23:13 - I then created a snapshot called tools-installed.
+
+
+### 17/10/2026
+00:13 - I added the evidence-working.vhd by going into media and clicking add. I changed the type of the working copy to ‘immutable’.
+
+01:09 - On the analysis VM i clicked settings then storage and added the working copy to the SATA and saved it.
