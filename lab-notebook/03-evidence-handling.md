@@ -1,4 +1,4 @@
-# Day 3 - Evidence Handling and Acquisition 
+# 03 - Evidence Handling and Acquisition 
 
 ## Goal
 Turn Caleb Bridgers laptop virtual machine into a single verified disk image, then make a working copy to analyse so that the original virtual machine is never touched.
