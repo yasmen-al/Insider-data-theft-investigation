@@ -44,17 +44,17 @@
 
 ## 02 - Incident Creation
 ### 11/10/2026
-14:34 - I started up 'laptop'.
+13:30 - I started up 'laptop' VM.
 
-- I went to the file explorer and opened the sales folder, then opened ‘customer,csv’ and ‘pricing,csv’. I then closed the files.
+13:34 - I went to the file explorer and opened the sales folder, then opened ‘customer,csv’ and ‘pricing,csv’. I then closed the files.
   
-- selected both of these files and right clicked. I went to the 7-zip option and clicked 'add to archive'.
+13:40 - I selected both of these files and right clicked. I went to the 7-zip option and clicked 'add to archive'.
   
-- Changed the archive path to ‘holidaypictures.7Z’, then set a password and clicked ok. This file is now saved in the ‘sales’ folder.
+13:42 - Changed the archive path to ‘holidaypictures.7Z’, then set a password and clicked ok. This file is now saved in the ‘sales’ folder.
+
+14:31 - I searched onedrive and tried to create an account to store the file ‘holidaypictures’. However, an error came up stating there is unusual activity on the device and that it couldn’t make an account.
   
-- on Microsoft edge I searched ‘how to permanently delete files from windows’. I then clicked and read one of the links.
-  
-- I searched onedrive and tried to create an account to store the file ‘holidaypictures’. However, an error came up stating there is unusual activity on the device and that it couldn’t make an account.
+14:57 on Microsoft edge I searched ‘how to permanently delete files from windows’. I then clicked and read one of the links.
   
  15:36 - I went to the sales folder. selected the files ‘customer.csv’ and ‘pricings.csv’ and deleted them.
  
@@ -62,7 +62,7 @@
 
 15:38 - I went back to file explorer and deleted ‘holidaypictures’ but kept it in the rubbish bin.
 
-15:40 - shut down the device.
+15:40 - I shut down the "laptop" VM.
 
 
 
@@ -89,9 +89,9 @@
 
 ## 04 - Analysis
 ### 16/10/2026
-00:13 - exported contemporaneous notes into a pdf.
+00:13 - I exported contemporaneous notes into a pdf.
 
-00:20 - hashed the contemporaneous notes file in terminal using ‘shashum -a 256 and the file path. hash: 3c626edeb7e9e632dc6151575c3587caccb2241658db7d05f37bb1e8bdcf2ca1.
+00:20 - I hashed the contemporaneous notes file in terminal using ‘shashum -a 256 and the file path. hash: 3c626edeb7e9e632dc6151575c3587caccb2241658db7d05f37bb1e8bdcf2ca1.
 
 17:31 - I opened vitualbox and pressed on new and created a new VM called ‘analysis’. I allocated it the ISO file and gave it 4096 MB in RAM, 2 CPUs and 50GB disk and unticked unattended install.
 
@@ -103,13 +103,13 @@
 
 17:36 - Selected install windows only and pressed next. 
 
-18:55 - selected the region to united kingdom.
+18:55 - I selected the region to United Kingdom.
 
 18:59 - I set the account name to be ‘examiner’.
 
 19:03 - I shut down the VM.
 
-21:34 - booted up the ‘analysis’ VM.
+21:34 - Booted up the ‘analysis’ VM.
 
 21:46 - I opened Microsoft edge.
 
@@ -125,9 +125,9 @@
 
 01:09 - On the analysis VM i clicked settings then storage and added the working copy to the SATA and saved it.
 
-14:40 - started up the VM.
+14:40 - Started up the "analysis" VM.
 
-14:42 - opened autopsy.
+14:42 - Opened autopsy.
 
 14:45 - I created a new case and named it “laptop-analysis” and added the path to documents. I Pressed finish and waited for the case to be created.
 
@@ -171,4 +171,4 @@
 
 19:53 - Shutdown Analysis VM.
 
-20:00 - Hashed the working-evidence.vhd to see that it matched and it did.
+20:00 - Hashed the working-evidence.vhd in Terminal to see that it matched and it did.
