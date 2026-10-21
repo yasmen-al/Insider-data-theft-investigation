@@ -26,6 +26,6 @@ To recover evidence from the 'laptop' VM.
 - The case took 5 hours to process and the VM was being slow.
 - It wasn't a blind analysis as I already knew what I was looking for.
 
-# What I would do differently
+## What I would do differently
 - I only used one tool which was Autopsy. I would check the USB connection artefacts with another tool to verify the findings.
 - I couldn't identify what was on the archive from the evidence. In a real case I would check other documents to see if a password is stored. If not i would run a password cracking tool.
