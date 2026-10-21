@@ -2,11 +2,11 @@
 
 ## 01 - VM Setup
 ### 10/10/2026
-17:30 - I Opened VirtualBox which was already installed on my device.
+17:30 - I opened VirtualBox which was already installed on my device.
 
-17:31 - I Clicked on new in VirtualBox and entered the name of the VM to be ‘laptop’.
+17:31 - I clicked on new in VirtualBox and entered the name of the VM to be ‘laptop’.
 
-17:33 - I selected the ISO image to be Windows10 which I already had downloaded on my device from the Microsoft software download.
+17:33 - I selected the ISO image to be Windows 10 which I already had downloaded on my device from the Microsoft software download.
 
 17:35 - Selected the OS Edition to Windows 10 pro and unticked proceed with unintended installation then clicked next.
 
@@ -24,7 +24,7 @@
 
 18:11 - I skipped all the extras. 
 
-18:17 - On Microsoft edge, I searched 7-zip and installed it. 
+18:17 - On Microsoft edge, I searched 7-Zip and downloaded it. 
 
 18:18 - I Shutdown the device and took a snapshot by going to machine then take snapshot. I then named it ‘clean install’. 
 
@@ -32,7 +32,7 @@
 
 18:22 - Inside the file explorer, I created a folder called ‘Sales’. 
 
-18:23 - I Created a file in notepad called ‘customers.csv’. Inside the notepad I added fake details for 15 customers, noting down their customerID, Name, email and order value. I Didn't use any personal date.
+18:23 - I Created a file in notepad called ‘Customerssss.csv’. Inside the notepad I added fake details for 15 Customerssss, noting down their CustomersssID, Name, email and order value. I Didn't use any personal date.
 
 18:43 - Created another notepad within the ‘sales’ folder and named it ‘pricing.csv’ and added a list of product names and prices.
 
@@ -46,21 +46,21 @@
 ### 11/10/2026
 13:30 - I started up 'laptop' VM.
 
-13:34 - I went to the file explorer and opened the sales folder, then opened ‘customer,csv’ and ‘pricing,csv’. I then closed the files.
+13:34 - I went to the file explorer and opened the sales folder, then opened ‘Customersss.csv’ and ‘pricing,csv’. I then closed the files.
   
-13:40 - I selected both of these files and right clicked. I went to the 7-zip option and clicked 'add to archive'.
+13:40 - I selected both of these files and right clicked. I went to the 7-Zip option and clicked 'add to archive'.
   
-13:42 - Changed the archive path to ‘holidaypictures.7Z’, then set a password and clicked ok. This file is now saved in the ‘sales’ folder.
+13:42 - Changed the archive path to ‘HolidayPictures.7z’, then set a password and clicked ok. This file is now saved in the ‘sales’ folder.
 
-14:31 - I searched onedrive and tried to create an account to store the file ‘holidaypictures’. However, an error came up stating there is unusual activity on the device and that it couldn’t make an account.
+14:31 - I searched OneDrive and tried to create an account to store the file ‘HolidayPictures.7z’. However, an error came up stating there is unusual activity on the device and that it couldn’t make an account.
   
 14:57 on Microsoft edge I searched ‘how to permanently delete files from windows’. I then clicked and read one of the links.
   
- 15:36 - I went to the sales folder. selected the files ‘customer.csv’ and ‘pricings.csv’ and deleted them.
+ 15:36 - I went to the sales folder. selected the files ‘Customersss.csv’ and ‘pricings.csv’ and deleted them.
  
 15:37 - I made sure these files were properly deleted from the device by going to the bin and selecting the two files and deleting them.
 
-15:38 - I went back to file explorer and deleted ‘holidaypictures’ but kept it in the rubbish bin.
+15:38 - I went back to file explorer and deleted ‘HolidayPictures.7z’ but kept it in the rubbish bin.
 
 15:40 - I shut down the "laptop" VM.
 
