@@ -1,3 +1,5 @@
+# Findings from Autopsy
+
 |Findings |	Where |	Time |	Meaning |	Doesn’t Prove |
 | --- | --- | --- | --- | --- |
 Archive found in Recycle bin |	Autopsy -> Data Artifacts -> Recycle Bin |	15:38	11/10/2026 | The file had an extension of “.7z”.	| Whats inside of the archive and if it was sent anywhere. |
