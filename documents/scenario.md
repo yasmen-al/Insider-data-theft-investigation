@@ -17,7 +17,7 @@ After Caleb leaves, the manager of Jewellery Dream notices that a customer has b
 ## Simulated Activity
 - 10/10/2026 - Created the "laptop" VM. On the VM I created some files and produced normal browsing activity on Edge.
 - 11/10/2026 - Opened both csv files and archived them into 'HolidayPictures.7z' to disguise the csv files as a pictures archive.
-- The times come from the [Contemporaneous Notes](lab-notebook/raw-notes/contemporaneous-notes.md)
+- The times come from the [Contemporaneous Notes](https://github.com/yasmen-al/Insider-data-theft-investigation/blob/main/lab-notebook/raw-notes/contemporaneous-notes.md)
 
 
 ## Limiations
